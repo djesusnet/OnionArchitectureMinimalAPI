@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d2295c9d-3e58-4a78-9d63-7160c9a7aa3d": {
+      "ProjectGuid": "d2295c9d-3e58-4a78-9d63-7160c9a7aa3d",
+      "DisplayName": "OnionArchitectureMinimalAPI",
+      "ColorIndex": 0
+    },
+    "53472f73-adfe-41b6-971d-865226e7a7db": {
+      "ProjectGuid": "53472f73-adfe-41b6-971d-865226e7a7db",
+      "DisplayName": "OnionArchitectureMinimalAPI",
+      "ColorIndex": 1
+    },
+    "4441e204-d813-45b3-b363-818e2e456acd": {
+      "ProjectGuid": "4441e204-d813-45b3-b363-818e2e456acd",
+      "DisplayName": "DomainLayer",
+      "ColorIndex": 2
+    },
+    "d5a18b9c-4571-40e0-975c-a47c252167a6": {
+      "ProjectGuid": "d5a18b9c-4571-40e0-975c-a47c252167a6",
+      "DisplayName": "DomainServiceLayer",
+      "ColorIndex": 3
+    },
+    "ee48a43d-e2e9-406a-b211-f7d4d663cac7": {
+      "ProjectGuid": "ee48a43d-e2e9-406a-b211-f7d4d663cac7",
+      "DisplayName": "InfrastructureLayer",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

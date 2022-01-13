@@ -1,0 +1,15 @@
+D:\Projetos\repo\OnionArchitectureDemo\src\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.csproj.AssemblyReference.cache
+D:\Projetos\repo\OnionArchitectureDemo\src\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\repo\OnionArchitectureDemo\src\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.AssemblyInfoInputs.cache
+D:\Projetos\repo\OnionArchitectureDemo\src\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.AssemblyInfo.cs
+D:\Projetos\repo\OnionArchitectureDemo\src\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.csproj.CoreCompileInputs.cache
+D:\Projetos\repo\OnionArchitectureDemo\src\InfrastructureLayer\bin\Debug\net6.0\InfrastructureLayer.deps.json
+D:\Projetos\repo\OnionArchitectureDemo\src\InfrastructureLayer\bin\Debug\net6.0\InfrastructureLayer.dll
+D:\Projetos\repo\OnionArchitectureDemo\src\InfrastructureLayer\bin\Debug\net6.0\ref\InfrastructureLayer.dll
+D:\Projetos\repo\OnionArchitectureDemo\src\InfrastructureLayer\bin\Debug\net6.0\InfrastructureLayer.pdb
+D:\Projetos\repo\OnionArchitectureDemo\src\InfrastructureLayer\bin\Debug\net6.0\DomainLayer.dll
+D:\Projetos\repo\OnionArchitectureDemo\src\InfrastructureLayer\bin\Debug\net6.0\DomainLayer.pdb
+D:\Projetos\repo\OnionArchitectureDemo\src\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.csproj.CopyComplete
+D:\Projetos\repo\OnionArchitectureDemo\src\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.dll
+D:\Projetos\repo\OnionArchitectureDemo\src\InfrastructureLayer\obj\Debug\net6.0\ref\InfrastructureLayer.dll
+D:\Projetos\repo\OnionArchitectureDemo\src\InfrastructureLayer\obj\Debug\net6.0\InfrastructureLayer.pdb
